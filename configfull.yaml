@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://cloudfisher.net/jsk34?token=a0e2b487d92b36604ab3a440de4e9df0"
+    url: "订阅链接"
       
 # 用于下载订阅时指定UA
 global-ua: clash
